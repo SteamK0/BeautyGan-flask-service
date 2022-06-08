@@ -1,0 +1,12 @@
+Flask
+gevent
+h5py
+numpy
+Pillow
+tensorflow
+Werkzeug==0.16.0
+imageio
+opencv-python
+cmake
+dlib
+flask-restplus
